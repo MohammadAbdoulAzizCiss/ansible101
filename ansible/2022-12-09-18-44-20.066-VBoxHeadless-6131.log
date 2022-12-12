@@ -1,0 +1,12 @@
+Log created: 2022-12-09T18:44:20.662030000Z
+Process ID:  6131 (0x17f3)
+Parent PID:  1 (0x1)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: vagrant_default_1670332520014_38919
+Arg[3]: --startvm
+Arg[4]: 12868ba5-8afd-445a-8f8d-995fcc4ea4c6
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
